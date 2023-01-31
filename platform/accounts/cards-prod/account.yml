@@ -1,0 +1,4 @@
+---
+# Set account-wide variables.
+account_name: "cards-prod"
+aws_account_id: "444455556666"
